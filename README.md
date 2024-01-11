@@ -10,7 +10,6 @@ Hi there! 👋 I'm passionate about web development and love creating innovative
 📬 **Let's Connect!**
 - Email: eediga.amarendra2002@gmail.com
 - LinkedIn: [LinkedIn.AMARENDRA](https://www.linkedin.com/in/eediga-amarendra-03b88324b/)
-- GitHub: [gitHub.AMARENDRA](https://github.com/AMARENDRA-EEDIGA)
 - HackerRank: [hACKERrANK.Amar](https://www.hackerrank.com/dashboard)
 - Contact: +91 6366908423 
 <!---
