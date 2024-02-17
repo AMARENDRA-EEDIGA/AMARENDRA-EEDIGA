@@ -15,7 +15,7 @@
 
 <div style="width:300px;height:200px; background:blacck;">
      <div>
-               <img src="" alt="Initial Project out-look">
+               <img src="C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot (91).png" alt="Initial Project out-look">
      </div>     
 </div>
       
