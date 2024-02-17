@@ -12,7 +12,13 @@
 - LinkedIn: [LinkedIn.AMARENDRA](https://www.linkedin.com/in/eediga-amarendra-03b88324b/)
 - HackerRank: [hACKERrANK.Amar](https://www.hackerrank.com/dashboard)
 - Contact: +91 6366908423
-  
+
+<div style="width:300px;height:200px; background:blacck;">
+     <div>
+               <img src="" alt="Initial Project out-look">
+     </div>     
+</div>
+      
 <!---
 AMARENDRA-EEDIGA/AMARENDRA-EEDIGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
