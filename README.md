@@ -3,7 +3,6 @@
      continuous learning and building a strong foundation in programming. 
 - 🚀 Also I'm passionate about web development and love creating innovative projects. I'm currently looking to collaborate on projects related to full-stack development.
 - 💻 **Skills:** Java, MySQL for Database, Python for Data Science, HTML, CSS.
-- 🌐 **Project Interests:** Web development, Data Analytics, open-source contributions.
 - ⌛ **Availability:** Open to short-term and long-term collaborations.
 - ✨ **Hobbies:** I enjoy spending my free time playing with coding, Sports and Physical Activities, Listing to music, Cooking, Traveling.
 
