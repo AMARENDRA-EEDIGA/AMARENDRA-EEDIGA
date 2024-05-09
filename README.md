@@ -12,14 +12,7 @@
 - HackerRank: [hACKERrANK.Amar](https://www.hackerrank.com/dashboard)
 - Contact: +91 6366908423
 
-I've created an introduction video that you can watch on YouTube:
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/vAzhV3zTv98" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-You can click[https://youtu.be/vAzhV3zTv98] if the video doesn't display properly.
+We can generate an atmosphere that transcends borders..[https://youtu.be/vAzhV3zTv98]
 
   
 <!---
