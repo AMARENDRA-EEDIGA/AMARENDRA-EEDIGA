@@ -6,6 +6,16 @@
 - ⌛ **Availability:** Open to short-term and long-term collaborations.
 - ✨ **Hobbies:** I enjoy spending my free time playing with coding, Sports and Physical Activities, Listing to music, Cooking, Traveling.
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<video width="320" height="240" controls autoplay>
+  <source src="C:\Users\Admin\Videos\wildlife\globe-e36c8e349c.mp4" type="video/mp4">
+</video>
+
+</body>
+</html>
 📬 **Let's Connect!**
 - Email: eediga.amarendra2002@gmail.com
 - LinkedIn: [LinkedIn.AMARENDRA](https://www.linkedin.com/in/eediga-amarendra-03b88324b/)
