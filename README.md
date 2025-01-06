@@ -9,7 +9,7 @@
 📬 **Let's Connect!**
 - Email: eediga.amarendra2002@gmail.com
 - LinkedIn: [LinkedIn.AMARENDRA](https://www.linkedin.com/in/eediga-amarendra-03b88324b/)
-- HackerRank: [hACKERrANK.Amar](https://www.hackerrank.com/dashboard)
+- HackerRank: [hACKERrANK.Amar](https://www.hackerrank.com/profile/amarendraeediga)
 - Contact: +91 6366908423
 
 We can generate an atmosphere that transcends borders..[https://youtu.be/vAzhV3zTv98]
