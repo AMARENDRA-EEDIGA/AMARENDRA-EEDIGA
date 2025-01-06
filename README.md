@@ -1,5 +1,5 @@
-- 👋 Hello, I’m AMARENDRA.
-- 👀 I’m interested in Programming and🌱 currently diving into Python and Data Science, practicing SQL, and pursuing certification courses online to strengthen my skills. I'm dedicated to 
+- Hello👋, I’m AMARENDRA.
+- I’m interested in Programming and🌱 currently diving into ODOO Development, QA automation, and Data Science, practicing SQL, and pursuing certification courses online to strengthen my skills. I'm dedicated to 
      continuous learning and building a strong foundation in programming. 
 - 🚀 Also I'm passionate about web development and love creating innovative projects. I'm currently looking to collaborate on projects related to full-stack development.
 - 💻 **Skills:** Java, MySQL for Database, Python for Data Science, HTML, CSS.
