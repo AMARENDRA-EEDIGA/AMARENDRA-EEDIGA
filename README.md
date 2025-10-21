@@ -2,7 +2,7 @@
 - I’m interested in Programming and🌱 currently diving into ODOO Development, QA automation, and Data Science, practicing SQL, and pursuing certification courses online to strengthen my skills. I'm dedicated to 
      continuous learning and building a strong foundation in programming. 
 - 🚀 Also I'm passionate about web development and love creating innovative projects. I'm currently looking to collaborate on projects related to full-stack development.
-- 💻 **Skills:** Java, MySQL for Database, Python for Data Science, HTML, CSS.
+- 💻 **Skills:** Odoo-Python, Java, MySQL & PostgreSQL for Database, Python for Data Science, HTML, CSS, Javascript
 - ⌛ **Availability:** Open to short-term and long-term collaborations.
 - ✨ **Hobbies:** I enjoy spending my free time playing with coding, Sports and Physical Activities, Listing to music, Cooking, Traveling.
 
