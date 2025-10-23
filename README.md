@@ -1,4 +1,8 @@
-- Hello👋, I’m AMARENDRA.
+<h1 align='center'> Hello <img <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m AMARENDRA.</h1>
+<div>
+     <img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width="100%" height="100%"/>
+</div>
+
 - I’m interested in Programming and🌱 currently diving into ODOO Development, QA automation, and Data Science, practicing SQL, and pursuing certification courses online to strengthen my skills. I'm dedicated to 
      continuous learning and building a strong foundation in programming. 
 - 🚀 Also I'm passionate about web development and love creating innovative projects. I'm currently looking to collaborate on projects related to full-stack development.
