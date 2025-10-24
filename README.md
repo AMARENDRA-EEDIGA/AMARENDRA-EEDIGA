@@ -42,10 +42,7 @@ Highlights: **Odoo ERP Customization**, **Automation Reports**, **Django Full-St
 ---
 
 ### 📫 Connect with Me
-- 📧 eediga.amarendra2002@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eediga-amarendra-03b88324b/)  
-- 🧩 [HackerRank](https://www.hackerrank.com/profile/amarendraeediga)  
-- 📱 +91 6366908423
+<p align="center"> <a href="mailto:eediga.amarendra2002@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/eediga-amarendra/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.hackerrank.com/profile/amarendraeediga" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> </p> <p align="center"> 📱 +91 6366908423 </p>
 
 ---
 
